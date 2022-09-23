@@ -5,7 +5,7 @@ body {
 }
 header {
     background-color: #151515;
-    padding: 25px;
+    padding: 50px;
     border-radius: 10px;
     text-align: center;
 }
@@ -13,10 +13,22 @@ main {
     padding-right: 200px;
     padding-left: 200px;
     font-size: large;
-    text-align: left;
+    text-align: center;
 }
 footer {
     padding: 150px;
     text-align: center;
 }
-
+button {
+    float: left;
+    background-color:#0084ff;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
+button:hover {
+    background-color: #0064c2;
+}
