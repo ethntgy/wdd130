@@ -1,0 +1,44 @@
+body {
+    background-color: #003866;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+header {
+    background-color: #151515;
+    padding: 25px;
+    border-radius: 10px;
+}
+#logo {
+    width: 100px;
+}
+main {
+    padding-right: 200px;
+    padding-left: 200px;
+    font-size: large;
+    text-align: left;
+}
+#pc {
+    width: 250px;
+    border-radius: 10px;
+}
+#chalice {
+    width: 250px;
+    border-radius: 10px;
+}
+#me {
+    width: 300px;
+    border-radius: 10px;
+}
+footer {
+    padding: 150px;
+    text-align: center;
+}
+#twitch {
+    font-size: large;
+    color: #008cff;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#main_img {
+    width: 600px;
+    border-radius: 10px;
+}
