@@ -89,6 +89,7 @@ header {
 footer {
     background-color: var(--accent1-color);
     padding: 25px 50px;
+    margin-top: 200px 0;
 }
 footer h3 {
     color: white;
