@@ -18,6 +18,7 @@ h1, h2, h3, h4, h5, h6 {
     color: white;
 }
 header {
+    background-color: var(--primary-color);
     display: grid;
     grid-template-columns: 150px auto;
     z-index: 2;
@@ -86,9 +87,6 @@ main section img {
 }
 body {
     background-color: var(--secondary-color);
-}
-header {
-    background-color: var(--primary-color);
 }
 .book, .join {
     background-color: var(--accent1-color);
