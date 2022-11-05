@@ -1,23 +1,54 @@
-Slogan:
-Wedding Videos that last an eternity.
+HOME PAGE:
+    Slogan:
+    Wedding Videos that last an eternity.
 
-Book Now:
-We want you to remember your special day for all eternity. We know that each wedding is 
-individual and unique, and we want to capture that for you. Book your videographer now!
+    Book Now:
+    We want you to remember your special day for all eternity. We know that each wedding is 
+    individual and unique, and we want to capture that for you. Book your videographer now!
 
-Mission:
-Our mission is provide the highest quality videos that show each aspect of the couples 
-weddings. From the decor to the couple to the ceremony. It is vital for everyone to 
-remember their special day and we provide affordable methods to remember their day for 
-eternity.
+    Mission:
+    Our mission is provide the highest quality videos that show each aspect of the couples 
+    weddings. From the decor to the couple to the ceremony. It is vital for everyone to 
+    remember their special day and we provide affordable methods to remember their day for 
+    eternity.
 
-<<<<<<< HEAD
-With Eternal Wedding Films, you can always expect the highest quality content.
-Our videographers have grown with the industry and are therefore much more familiar
-with the styles and technicals of film making. Our pricing is unbeatable in this
-market, however, a selection of promotional items will be provided by the Eternal
-Wedding Films team so we can make you special day even more special. 
-=======
+PRICING PAGE: 
+    Our videographers are the most experienced in this industry. They all undergo a testing
+    process that shows that they are capable of a high quality product. The pricing is $800 
+    up front for the product. This allows us to maintain our equipment and to continue
+    marketing for our business. We are open to negotiations.
+
+    We are available for any day of the week as long as you book us in advance. So don't 
+    hesitate! Book us now so we can make sure that we can get you videographers for your
+    special day!
+
+    With Eternal Wedding Films, you can always expect the highest quality content.
+    Our videographers have grown with the industry and are therefore much more familiar
+    with the styles and technicals of film making. Our pricing is unbeatable in this
+    market, however, a selection of promotional items will be provided by the Eternal
+    Wedding Films team so we can make you special day even more special. 
+
+FAQ PAGE:
+    Q: How invasive are the videographers?
+    A: It just depends on how you want the video in the end! Our videographers can stay out
+    of the way or they can be up close and personal. It just depends on what final product
+    you are looking for!
+
+    Q: What cameras do you use?
+    A: We use Sony A7iii with a wide variety of G-Master lenses. We believe these cameras to
+    be amongst the highest quality available to us. We also use a few different gimbals to 
+    make sure the video is smooth. Aerial footage is available upon request.
+
+    Q: How does the video turn out?
+    A: We always schedule a brainstorming session before the wedding day. This allows our
+    videographers to fully understand the final product that the couple is looking for.
+    These sessions typically take around one hour. Examples are available upon request.
+
+    Q: Why do we need a wedding video?
+    A: Memory isn't always perfect, but a video can refresh and capture more detail than 
+    any human could remember. Our videos capture all the details so you can remember your
+    special day for the rest of eternity!
+
 People will visit our site to find experienced affordable videographers that can provide
 the service that we offer.
 
@@ -31,30 +62,3 @@ and the availablitiy of the videographers.
 
 Visitors will choose our site over others because we offer more affordable prices then
 any other on the market.
-
-Pricing:
-Our videographers are the most experienced in this industry. They all undergo a testing
-process that shows that they are capable of a high quality product. The pricing is $800 
-up front for the product. This allows us to maintain our equipment and to continue
-marketing for our business. We are open to negotiations.
-
-We are available for any day of the week as long as you book us in advance. So don't 
-hesitate! Book us now so we can make sure that we can get you videographers for your
-special day!
-
-FAQ:
-Q: How invasive are the videographers?
-A: It just depends on how you want the video in the end! Our videographers can stay out
-of the way or they can be up close and personal. It just depends on what final product
-you are looking for!
-
-Q: What cameras do you use?
-A: We use Sony A7iii with a wide variety of G-Master lenses. We believe these cameras to
-be amongst the highest quality available to us. We also use a few different gimbals to 
-make sure the video is smooth. Aerial footage is available upon request.
-
-Q: How does the video turn out?
-A: We always schedule a brainstorming session before the wedding day. This allows our
-videographers to fully understand the final product that the couple is looking for.
-These sessions typically take around one hour. Examples are available upon request.
->>>>>>> 97b17bf497153394e9fc6d3e0a349ca1ce8a94a4
