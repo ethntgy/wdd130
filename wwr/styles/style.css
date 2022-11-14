@@ -41,10 +41,13 @@ nav a:hover {
     color: white;
 }
 .home-title {
-    color: white;
+    color: var(--accent1-color);
+    background-color: var(--secondary-color);
     font-family: var(--heading-font);
     font-size: 2em;
     margin-top: 10px;
+    padding: 25px;
+    border-radius: 10px;
 }
 #hero {
     display: grid;
@@ -63,6 +66,7 @@ nav a:hover {
 }
 #hero-img {
     width: 100%;
+    height: 500px;
 }
 #hero-box {
     margin-top: -100px;
@@ -170,6 +174,7 @@ h4 {
 }
 footer .social img {
     padding-top: 15px;
+    z-index: 2;
 }
 .card-img {
     border: 10px solid var(--primary-color);
@@ -201,7 +206,39 @@ footer .social img {
     grid-row: 5/8;
     box-shadow: 5px 5px 10px #6f7364;
 }
-
+.home-text {
+    background-color: var(--accent2-color);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+#faq-1, #faq-2, #faq-3, #faq-4, #faq-5 {
+    background-color: var(--accent1-color);
+    grid-column: 1/3;
+    font-size: large;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
+#faq-1 {
+    grid-row: 1/2;
+}
+#faq-2 {
+    grid-row: 3/4;
+}
+#faq-3 {
+    grid-row: 5/6;
+}
+#faq-4 {
+    grid-row: 7/8;
+}
+#faq-5 {
+    grid-row: 9/10;
+}
+#bottom-image {
+    width: 100%;
+    margin-bottom: -200px;
+    z-index: 1;
+}
 
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
