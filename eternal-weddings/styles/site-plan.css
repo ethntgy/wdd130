@@ -100,7 +100,7 @@ p.colored {
 }
 
 nav {
-  background-color: var(--nav-background-color);
+  background-color: var(--primary-color);
   line-height: 3em;
   text-align: center;
   font-size: 1.2em;
@@ -108,21 +108,19 @@ nav {
 nav  {
   list-style-type: none;
   display: flex;
-
 }
 nav a {
   padding:1em;
   min-width: 120px;
   text-decoration: none;
   padding: 10px;
-
+  color: white;
 }
 nav a:link, nav a:visited {
-  color: var(--nav-link-color);
+  color: white;
 }
 nav a:hover {
-  color: var(--nav-hover-link-color);
-  background-color: var(--nav-hover-background-color);
+  background-color: var(--accent2-color);
 }
 
 .sitemap {
